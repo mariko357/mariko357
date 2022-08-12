@@ -1,3 +1,2 @@
 # Hi there! 👋
-# My website 🌐
-https://markbel.dev
+# [My website](https://markbel.dev) 🌐
